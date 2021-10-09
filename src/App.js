@@ -1,8 +1,11 @@
 import React from 'react';
+import "./pages/Home"
 
 function App() {
   return (
-    <h1>Quem é esse Pokemon?!</h1>
+    <div className="App">
+    </div>
+  
   );
 }
 
