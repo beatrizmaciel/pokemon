@@ -1,0 +1,21 @@
+.game-main{
+    display: flex;
+}
+
+.game-icon{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokemon{
+    width: 250px;
+    height: 250px;
+}
+
+.game-keyboard{
+    width: 50%;
+    background-color: #F7CC46;
+}
